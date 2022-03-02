@@ -1,25 +1,25 @@
 #记录学习vue3
 
 # 一、使用
- 1.使用vue-cli闯将
+ 1. 使用vue-cli闯将
  查看@vue/cli版本，确保@vue/cli版本在4.5.0以上
 vue --version
-## 安装或者升级你的@vue/cli
+- 安装或者升级你的@vue/cli
 npm install -g @vue/cli
-## 创建Vue项目，选择Vue3
+-  创建Vue项目，选择Vue3
 vue create vue_test
-## 启动
+- 启动
 cd vue_test
 npm run serve
 
- 2.使用vite创建
-## 创建工程
+ 2. 使用vite创建
+- 创建工程
 npm init vite-app yk_vue3
-## 进入工程目录
+- 进入工程目录
 cd yk_vue3
-## 安装依赖
+- 安装依赖
 npm install
-## 运行
+- 运行
 npm run dev
 
 # 二 Composition API
